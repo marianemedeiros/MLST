@@ -1,0 +1,47 @@
+// LOW DENSITY
+
+arquivo: LDGraph20_20.txt
+Tempo de execução do arquivo: 00:430 segundos/milisegundos
+
+arquivo: LDGraph30_30.txt
+Tempo de execução do arquivo: 02:99 segundos/milisegundos
+
+arquivo: LDGraph40_40.txt
+Tempo de execução do arquivo: 07:776 segundos/milisegundos
+
+arquivo: LDGraph50_50.txt
+Tempo de execução do arquivo: 26:465 segundos/milisegundos
+
+
+// MEDIUM DENSITY
+arquivo: MDGraph20_20.txt
+Tempo de execução do arquivo: 00:139 segundos/milisegundos
+
+arquivo: MDGraph30_30.txt
+Tempo de execução do arquivo: 00:556 segundos/milisegundos
+
+arquivo: MDGraph40_40.txt
+Tempo de execução do arquivo: 01:394 segundos/milisegundos
+
+arquivo: MDGraph50_50.txt
+Tempo de execução do arquivo: 03:262 segundos/milisegundos
+
+
+// HIGH DENSITY
+arquivo: HDGraph20_20.txt
+Tempo de execução do arquivo: 00:81 segundos/milisegundos
+
+arquivo: HDGraph30_30.txt
+Tempo de execução do arquivo: 00:238 segundos/milisegundos
+
+
+arquivo: HDGraph40_40.txt
+Tempo de execução do arquivo: 00:949 segundos/milisegundos
+
+arquivo: HDGraph50_50.txt
+Tempo de execução do arquivo: 01:367 segundos/milisegundos
+
+
+
+
+

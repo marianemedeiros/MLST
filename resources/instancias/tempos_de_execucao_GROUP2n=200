@@ -1,0 +1,40 @@
+// HIGH DENSITY
+HDGraph200_250.txt
+---Tempo: 384:569
+
+HDGraph200_200.txt
+---Tempo: 226:672
+
+HDGraph200_100.txt
+--- Tempo: 14:943 segundos/milisegundos
+
+HDGraph200_50.txt
+---Tempo: 01:485
+
+// LOW DENSITY
+
+LDGraph200_50.txt
+---Tempo: 10:511
+
+LDGraph200_100.txt
+NF
+
+LDGraph200_200.txt
+NF
+
+LDGraph200_250.txt
+NF
+
+// MEDIUM DENSITY
+MDGraph200_50.txt
+---Tempo: 06:667
+
+MDGraph200_100.txt
+---Tempo: 00:404
+
+MDGraph200_200.txt
+NF
+
+MDGraph200_250.txt
+NF
+

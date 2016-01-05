@@ -1,0 +1,41 @@
+// LOW DENSITY
+arquivo: LDGraph100_25.txt
+Tempo de execução do arquivo: 05:319 segundos/milisegundos
+
+arquivo: LDGraph100_50.txt
+Tempo de execução do arquivo: 49:192 segundos/milisegundos
+
+arquivo: LDGraph100_100.txt
+NF
+
+arquivo: LDGraph100_125.txt
+NF
+
+// MEDIUM DENSITY
+arquivo: MDGraph100_25.txt
+Tempo de execução do arquivo: 00:510 segundos/milisegundos
+
+arquivo: MDGraph100_50.txt
+Tempo de execução do arquivo: 04:738 segundos/milisegundos
+
+arquivo: MDGraph100_100.txt
+Tempo de execução do arquivo: 36:657 segundos/milisegundos
+
+arquivo: MDGraph100_125.txt
+Tempo de execução do arquivo: 26:31 segundos/milisegundos ***********
+
+********* SEI QUE ESTA ESTRANHO O TEMPO DO 100X100 ESTAR MAIOR QUE O DO 100X125, MAS EXECUTEI 2 VEZES E PERMANECEU COM O PRIMEIRO
+COM MAIOR TEMPO DE EXECUÇÃO
+
+// HIGH DENSITY
+arquivo: HDGraph100_25.txt
+Tempo de execução do arquivo: 00:220 segundos/milisegundos
+
+arquivo: HDGraph100_50.txt
+Tempo de execução do arquivo: 01:773 segundos/milisegundos
+
+arquivo: HDGraph100_100.txt
+Tempo de execução do arquivo: 11:901 segundos/milisegundos
+
+arquivo: HDGraph100_125.txt
+Tempo de execução do arquivo: 22:614 segundos/milisegundos
